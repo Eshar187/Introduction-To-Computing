@@ -2,7 +2,7 @@
 """
 Created on Sat May 14 21:26:05 2022
 
-@author: Eshar
+@author: Esharpreet Singh
 """
 
 #Question 1
