@@ -4,7 +4,7 @@ Created on Thu Jun  9 22:59:08 2022
 
 @author: Dell
 """
-
+#1
 a=int (input ("Enter your marks"))
 if a>80 :
 
@@ -32,7 +32,7 @@ else :
      
      
      
-
+#2
 b= int (input("\n \n Enter a year")) 
 if (b%4==0 and b%100 !=0) or b%400==0:
     print("It is a leap year")
@@ -43,7 +43,7 @@ else:
       
       
       
-
+#3
 import random
 print("\n \n You will get 10 random multiplication questions")
 
@@ -68,7 +68,9 @@ for n in range (0,10):
 
     
 
-
+     
+     
+#4
 r=1
 while r<200:
 
