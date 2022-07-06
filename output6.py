@@ -30,7 +30,7 @@ False
 Check whether the said classes are subclasses of the built-in object class or not.
 True
 True
-py_solution().threeSum([-25, -10, -7, -3, 2, 4, 8, 10]
+
 True
 False
 True
