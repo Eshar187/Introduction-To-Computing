@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul  1 14:45:02 2022
-
 @author: Dell
 """
 #1
